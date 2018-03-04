@@ -10,8 +10,8 @@ function drawTree(treeHeight) {
 	}
 }
 
-console.log(drawTree(1));
+drawTree(1);
 
-console.log(drawTree(5));
+drawTree(5);
 
-console.log(drawTree(10));
+drawTree(10);
